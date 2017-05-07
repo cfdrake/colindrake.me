@@ -4,7 +4,7 @@ theme = "colindrake.me"
 title = "colindrake.me"
 
 [permalinks]
-    blog = "/post/:title/"
+    post = "/post/:title/"
     page = "/page/:title/"
 
 [[menu.main]]

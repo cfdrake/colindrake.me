@@ -1,0 +1,3 @@
+[submodule "themes/colindrake.me"]
+	path = themes/colindrake.me
+	url = git@github.com:cfdrake/hugo-theme.git

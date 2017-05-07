@@ -1,0 +1,14 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+Redirect 301 /weblog /post
+Redirect 301 /colophon /page/site-info
+Redirect 301 /projects /page/open-source
+Redirect 301 /2016/03/21/you-could-have-invented-objects /post/you-could-have-invented-objects
+Redirect 301 /2015/10/28/implementing-a-small-dsl-in-swift /post/implementing-a-small-dsl-in-swift
+Redirect 301 /2015/10/05/wrapping-a-c-library-in-a-swift-framework /post/wrapping-a-c-library-in-a-swift-framework
+Redirect 301 /2015/10/01/an-observable-pattern-implementation-in-swift /post/an-observable-pattern-implementation-in-swift
+Redirect 301 /2015/08/03/puredata-an-introduction /post/getting-started-with-puredata
+Redirect 301 /2015/06/25/objective-c-ctags-vim /post/vim-for-ios-development-setting-up-ctags
+Redirect 301 /2011/05/28/clustering-in-ruby /post/kmeans-clustering-in-ruby
+Redirect 301 /2011/05/01/ga-in-python /post/a-genetic-algorithm-in-python

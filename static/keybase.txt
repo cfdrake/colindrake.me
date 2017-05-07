@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/cfdrake
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://colindrake.me
+  * I am cfdrake (https://keybase.io/cfdrake) on keybase.
+  * I have a public key ASBl8RnKSX2-ovDUTxGysMUBjuGRUDYifnnvq5lukHhRego
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012065f119ca497dbea2f0d44f11b2b0c5018ee1915036227e79efab996e9078517a0a",
+            "host": "keybase.io",
+            "kid": "012065f119ca497dbea2f0d44f11b2b0c5018ee1915036227e79efab996e9078517a0a",
+            "uid": "0c443f2f74b5936c9eeaa1f2e6977019",
+            "username": "cfdrake"
+        },
+        "service": {
+            "hostname": "colindrake.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1473128034,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1473128028,
+        "hash": "e21114c0c86b4208d0770ab317f5ddeda6b86a076b905e839d6b55076fbba84d842ee321cb97316c8e3ca3e2255cdf8971714c11277420ef7170d14689217600",
+        "seqno": 620120
+    },
+    "prev": "054298295cc58e318ac158f04f8b1470f29cc2077fde0162dfd4317e4ea45768",
+    "seqno": 30,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZfEZykl9vqLw1E8RsrDFAY7hkVA2In5576uZbpB4UXoKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNjVmMTE5Y2E0OTdkYmVhMmYwZDQ0ZjExYjJiMGM1MDE4ZWUxOTE1MDM2MjI3ZTc5ZWZhYjk5NmU5MDc4NTE3YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjVmMTE5Y2E0OTdkYmVhMmYwZDQ0ZjExYjJiMGM1MDE4ZWUxOTE1MDM2MjI3ZTc5ZWZhYjk5NmU5MDc4NTE3YTBhIiwidWlkIjoiMGM0NDNmMmY3NGI1OTM2YzllZWFhMWYyZTY5NzcwMTkiLCJ1c2VybmFtZSI6ImNmZHJha2UifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNvbGluZHJha2UubWUiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3MzEyODAzNCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDczMTI4MDI4LCJoYXNoIjoiZTIxMTE0YzBjODZiNDIwOGQwNzcwYWIzMTdmNWRkZWRhNmI4NmEwNzZiOTA1ZTgzOWQ2YjU1MDc2ZmJiYTg0ZDg0MmVlMzIxY2I5NzMxNmM4ZTNjYTNlMjI1NWNkZjg5NzE3MTRjMTEyNzc0MjBlZjcxNzBkMTQ2ODkyMTc2MDAiLCJzZXFubyI6NjIwMTIwfSwicHJldiI6IjA1NDI5ODI5NWNjNThlMzE4YWMxNThmMDRmOGIxNDcwZjI5Y2MyMDc3ZmRlMDE2MmRmZDQzMTdlNGVhNDU3NjgiLCJzZXFubyI6MzAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAczBCxzFs/DFwMMswQGEgSV7AUwzcuSyUBztlSn9b9fzSgpyHTnP2El37AQnL6wwI0eM7rRzg2r1Q08G3zVJlDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOumiryafBfeB5H1grIYID6mEaehodLcuSeosWwBXqQ6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cfdrake
+
+==================================================================

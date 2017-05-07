@@ -1,0 +1,29 @@
+baseURL = "https://colindrake.me"
+languageCode = "en-us"
+theme = "colindrake.me"
+title = "colindrake.me"
+
+[permalinks]
+    blog = "/post/:title/"
+    page = "/page/:title/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = -10
+[[menu.main]]
+    name = "Posts"
+    url = "/post"
+[[menu.main]]
+    name = "Open Source"
+    url = "/page/open-source/"
+[[menu.main]]
+    name = "Work"
+    url = "/page/work/"
+
+[[menu.footer]]
+    name = "RSS"
+    url = "/post/index.xml"
+[[menu.footer]]
+    name = "Site Info"
+    url = "/page/site-info"

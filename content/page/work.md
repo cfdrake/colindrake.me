@@ -15,4 +15,5 @@ and have interned with [Google](https://developers.google.com/open-source/gsoc/)
 love to learn new technologies, and have experience working on platforms ranging from mobile apps and web backends to
 low-level BIOS drivers and command line Linux programs.
 
-For a complete work history, take a look at my [resume](/resume.html) or [LinkedIn](https://linkedin.com/in/cfdrake) profile.
+For a complete work history, take a look at my [resume](/resume.html) or [LinkedIn](https://linkedin.com/in/cfdrake) profile. Additionally,
+presentations I've given at work are available on [Github](https://github.com/cfdrake/talks).

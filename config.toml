@@ -15,8 +15,8 @@ title = "colindrake.me"
     name = "Posts"
     url = "/post"
 [[menu.main]]
-    name = "Open Source"
-    url = "/page/open-source/"
+    name = "Projects"
+    url = "/page/projects/"
 [[menu.main]]
     name = "Work"
     url = "/page/work/"

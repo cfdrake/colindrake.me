@@ -1,8 +1,0 @@
-title = "Colin Drake"
-baseURL = "https://colindrake.me/"
-languageCode = "en-us"
-theme = "hugo-theme-basic"
-
-[[params.menu]]
-  url = "/about"
-  name = "about"

@@ -1,0 +1,13 @@
+title: Colin Drake
+baseURL: https://colindrake.me
+languageCode: en-us
+theme: basic
+
+params:
+  menu:
+    - url: https://februarywarmfront.bandcamp.com
+      name: music
+    - url: https://instagram.com/city.lizard
+      name: art
+    - url: /about
+      name: about

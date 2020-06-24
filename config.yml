@@ -5,9 +5,24 @@ theme: basic
 
 params:
   menu:
-    - url: https://februarywarmfront.bandcamp.com
+    - url: /post
+      name: blog
+      description: technical writing
+    - url: https://linkedin.com/in/cfdrake
+      name: resume
+      description: professional work
+    - url: /open-source
+      name: open source
+      description: ios apps, etc. written by me
+    - url: /norns
+      name: norns
+      description: music software written by me
+    - url: /music
       name: music
-    - url: https://instagram.com/city.lizard
+      description: ambient recordings
+    - url: /art
       name: art
+      description: generative art
     - url: /about
       name: about
+      description: bio & contact details

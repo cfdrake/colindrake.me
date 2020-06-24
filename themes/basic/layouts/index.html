@@ -39,7 +39,7 @@
           <!-- prettier-ignore -->
           {{ range .Site.Params.menu }}
           <li class="b mv3">
-            <a class="f3 b pa1 black" href="{{ .url }}">{{ .name }}</a>
+            <a class="f3 b pa1 black" href="{{ .url }}">{{ .name }}</a><span class="gray">{{ .description }}</span>
           </li>
           <!-- prettier-ignore -->
           {{ end }}

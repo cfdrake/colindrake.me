@@ -1,0 +1,44 @@
+body {
+  margin: 2em;
+  font-size: 10px;
+  font-family: Menlo, monospace;
+}
+
+h1, h2 {
+  font-size: 4em;
+  font-weight: 100;
+}
+  
+h2::after {
+  content: " \A7";
+  color: #ddd;
+}
+
+p, ul {
+  font-size: 2em;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+ul li {
+  display: inline-block;
+  margin-right: 0.5em;
+}
+
+a {
+  color: #ff6e5e;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: line-through;
+}
+
+.gallery img {
+  width: 100%;
+  max-width: 400px;
+  vertical-align: top;
+}
